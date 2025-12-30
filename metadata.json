@@ -1,0 +1,7 @@
+{
+  "name": "葛仙智伴 - 智慧游览生态架构",
+  "description": "基于葛仙山道家文化构建的智慧游览AI生态系统，整合AI伴游、AR互动、安全保障与运营管理。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
